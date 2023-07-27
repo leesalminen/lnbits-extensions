@@ -10,7 +10,7 @@
             "icon": "https://raw.githubusercontent.com/lnbits/copilot/main/static/bitcoin-streaming.png",
             "archive": "https://github.com/Bitcoin-Jungle/lnbits-scheduled-payments/archive/refs/tags/v0.3.zip",
             "hash": "26de2155c00c5745bc311b57196e5a537ec8fcb432ebe5c482137a147a51155c"
-        },
+         },
          {
             "id": "copilot",
             "repo": "https://github.com/lnbits/copilot",
