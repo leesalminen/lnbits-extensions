@@ -1,6 +1,16 @@
 {
     "featured": ["tpos","jukebox","gerty","usermanager","lnticket"],
     "extensions": [
+        {
+            "id": "scheduledpayments",
+            "repo": "https://github.com/Bitcoin-Jungle/lnbits-scheduled-payments",
+            "name": "Scheduled Payments",
+            "version": "0.1",
+            "short_description": "Schedule recurring payments in the future",
+            "icon": "https://raw.githubusercontent.com/lnbits/copilot/main/static/bitcoin-streaming.png",
+            "archive": "https://github.com/Bitcoin-Jungle/lnbits-scheduled-payments/archive/refs/tags/v0.1.zip",
+            "hash": "58513cf8726aa5a8fef41ed5cb8cd1b8dd72127a"
+        },
          {
             "id": "copilot",
             "repo": "https://github.com/lnbits/copilot",
