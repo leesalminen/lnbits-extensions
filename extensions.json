@@ -5,11 +5,11 @@
             "id": "scheduledpayments",
             "repo": "https://github.com/Bitcoin-Jungle/lnbits-scheduled-payments",
             "name": "Scheduled Payments",
-            "version": "0.1",
+            "version": "0.3",
             "short_description": "Schedule recurring payments in the future",
             "icon": "https://raw.githubusercontent.com/lnbits/copilot/main/static/bitcoin-streaming.png",
-            "archive": "https://github.com/Bitcoin-Jungle/lnbits-scheduled-payments/archive/refs/tags/v0.1.zip",
-            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            "archive": "https://github.com/Bitcoin-Jungle/lnbits-scheduled-payments/archive/refs/tags/v0.3.zip",
+            "hash": "26de2155c00c5745bc311b57196e5a537ec8fcb432ebe5c482137a147a51155c"
         },
          {
             "id": "copilot",
