@@ -9,7 +9,7 @@
             "short_description": "Schedule recurring payments in the future",
             "icon": "https://raw.githubusercontent.com/lnbits/copilot/main/static/bitcoin-streaming.png",
             "archive": "https://github.com/Bitcoin-Jungle/lnbits-scheduled-payments/archive/refs/tags/v0.1.zip",
-            "hash": "58513cf8726aa5a8fef41ed5cb8cd1b8dd72127a"
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         },
          {
             "id": "copilot",
